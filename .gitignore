@@ -1,0 +1,15 @@
+# Build outputs
+build/
+*.apk
+*.aab
+
+# Gradle / IDE
+.gradle/
+.gradle-home/
+local.properties
+.idea/
+*.iml
+
+# Keystores (never commit signing keys)
+*.keystore
+*.jks
